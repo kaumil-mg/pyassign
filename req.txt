@@ -3,5 +3,6 @@ bs4
 pandas
 numpy
 seaborn
-tensorfow
 scipy
+scikit-learn
+tensorflow
